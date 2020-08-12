@@ -1,0 +1,21 @@
+,,0
+0,Unnamed: 0,0
+0,PassengerId,1
+0,Survived,0
+0,Pclass,3
+0,Name,"Braund, Mr. Owen Harris"
+0,Sex,male
+0,Age,22.0
+0,SibSp,1.0
+0,Parch,0.0
+0,Ticket,A/5 21171
+0,Fare,7.25
+0,Embarked,S
+1,Unnamed: 0,1
+1,PassengerId,2
+1,Survived,1
+1,Pclass,1
+1,Name,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)"
+1,Sex,female
+1,Age,38.0
+1,SibSp,1.0
