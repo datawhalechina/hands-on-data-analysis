@@ -17,7 +17,7 @@
 
 1. 第一部分：我们获得一个要分析的数据，我要学会如何加载数据，查看数据，然后学习Pandas的一些基础操作，最后开始尝试探索性的数据分析。
 2. 第二部分：当我们可以比较熟练的操作数据并认识这个数据之后，我们需要开始数据清洗以及重构，将原始数据变为一个可用好用的数据，为之后放入模型做准备
-3. 第三部分：我们根据任务需求不同，要考虑建立什么模型，我们接触流行的sklearn库，建立模型。然后一个模型的好坏，我们是需要评估的，之后我们会引入模型评估的一些改变和实现。
+3. 第三单元：我们根据任务需求不同，要考虑建立什么模型，我们使用流行的sklearn库，建立模型。对于一个模型的好坏，我们是需要评估的，之后我们会评估我们的模型，对模型做优化。
 
 #### 服用方法
 
@@ -33,7 +33,7 @@
 |   | 2.pandas基础     | [课程](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Ddata/blob/master/%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E7%AC%AC%E4%BA%8C%E8%8A%82pandas%E5%9F%BA%E7%A1%80-%E8%AF%BE%E7%A8%8B.ipynb)      |
 |     |       | [参考答案](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Ddata/blob/master/%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E7%AC%AC%E4%BA%8C%E8%8A%82pandas%E5%9F%BA%E7%A1%80.ipynb)      |
 |    | 3.探索性数据分析    | [课程](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Ddata/blob/master/%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%AC%AC%E4%B8%89%E8%8A%82%EF%BC%9A%E6%8E%A2%E7%B4%A2%E6%80%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-%E8%AF%BE%E7%A8%8B.ipynb)      |
-|     |       | [参考答案](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Data/blob/master/%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%AC%AC%E4%B8%89%E8%8A%82%EF%BC%9A%E6%8E%A2%E7%B4%A2%E6%80%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)       |
+|     |       | [参考答案](https://nbviewer.jupyter.org/github/datawhalechina/hands-on-data-analysis/blob/master/%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E7%AC%AC%E4%B8%89%E8%8A%82%E6%8E%A2%E7%B4%A2%E6%80%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)       |
 | 第二章	   | 1.数据清洗及特征处理     |  [课程](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Ddata/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E7%AC%AC%E4%B8%80%E8%8A%82%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97%E5%8F%8A%E7%89%B9%E5%BE%81%E5%A4%84%E7%90%86-%E8%AF%BE%E7%A8%8B.ipynb)       |
 |    |        | [参考答案](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Ddata/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E7%AC%AC%E4%B8%80%E8%8A%82%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97%E5%8F%8A%E7%89%B9%E5%BE%81%E5%A4%84%E7%90%86.ipynb)       |
 |    | 2.数据重构1     | [课程](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Data/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E7%AC%AC%E4%BA%8C%E8%8A%82%E6%95%B0%E6%8D%AE%E9%87%8D%E6%9E%841-%E8%AF%BE%E7%A8%8B.ipynb)     |
