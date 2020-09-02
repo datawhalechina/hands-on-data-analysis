@@ -51,11 +51,28 @@
 * 如果有任何想法可以联系邮箱（chenands@qq.com）
 * 欢迎大家提issues
 
-## 成员名单
-金娟娟，李玲，杨佳达，张文涛，高立业，老表，陈安东
+## 成员介绍
+
+| 姓名   | 属性                 | 地址                                                       |
+| ------ | -------------------- | ---------------------------------------------------------- |
+| 陈安东 | 中央民族大学         | 知乎：https://www.zhihu.com/people/wang-ya-fei-48          |
+| 金娟娟 | 浙江大学硕士         | 知乎：https://www.zhihu.com/people/wu-shi-lan-xiao-wang-zi |
+| 杨佳达 | 公众号简说Python作者 | 个人公众号：简说Python                                     |
+| 老表   | 数据挖掘师           | GitHub:https://github.com/yangjiada                        |
+| 李玲   | 算法工程师           | 知乎：https://www.zhihu.com/people/liu-yu-18-38            |
+| 张文涛 | 中山大学博士研究生   | GitHub： https://github.com/Fatflower                      |
+| 高立业 | 太原理工大学研究生   | GitHub：https://github.com/0-yy-0                          |
+
+## 关注我们
+
+扫描下方二维码，然后回复关键词“动手学数据分析”，即可加入“数据分析项目交流群”
+
+![datawhale](./datawhale.jpeg)
+
 
 
 ## LICENSE
+
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
