@@ -57,8 +57,8 @@
 | ------ | -------------------- | ---------------------------------------------------------- |
 | 陈安东 | 中央民族大学         | 知乎：https://www.zhihu.com/people/wang-ya-fei-48          |
 | 金娟娟 | 浙江大学硕士         | 知乎：https://www.zhihu.com/people/wu-shi-lan-xiao-wang-zi |
-| 杨佳达 | 公众号简说Python作者 | 个人公众号：简说Python                                     |
-| 老表   | 数据挖掘师           | GitHub:https://github.com/yangjiada                        |
+| 杨佳达 | 数据挖掘师 | GitHub:https://github.com/yangjiada      |
+| 老表   | 公众号简说Python作者         | 个人公众号：简说Python                                                   |
 | 李玲   | 算法工程师           | 知乎：https://www.zhihu.com/people/liu-yu-18-38            |
 | 张文涛 | 中山大学博士研究生   | GitHub： https://github.com/Fatflower                      |
 | 高立业 | 太原理工大学研究生   | GitHub：https://github.com/0-yy-0                          |
