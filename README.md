@@ -87,8 +87,6 @@
 
 ![Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。](https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg)
 
-
-
 ## LICENSE
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
