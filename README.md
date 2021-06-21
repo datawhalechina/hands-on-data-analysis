@@ -85,7 +85,7 @@
 
 扫描下方二维码，然后回复关键词“动手学数据分析”，即可加入“数据分析项目交流群”
 
-![Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。](https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg)
+<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" alt="Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。" style="zoom:67%;" />
 
 ## LICENSE
 
