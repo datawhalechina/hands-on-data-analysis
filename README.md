@@ -48,8 +48,9 @@
 |     |      | [参考答案](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Data/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%A8%A1%E5%9E%8B%E5%BB%BA%E7%AB%8B%E5%92%8C%E8%AF%84%E4%BC%B0---%E8%AF%84%E4%BB%B7.ipynb)       |
 
 ## 反馈
-* 如果有任何想法可以联系邮箱（chenands@qq.com）
-* 欢迎大家提issues
+若动手学数据分析里没有你想要的内容，或者你发现项目中哪里有错误，请毫不犹豫地去我们GitHub的Issues（ 地址：https://github.com/datawhalechina/hands-on-data-analysis）进行反馈，说明提问内容属于哪一个部分，然后提交你希望补充内容或者勘误信息，我们通常会在24小时以内给您回复，超过24小时未回复的话可以邮件联系我们（chenands@qq.com）；
+
+
 
 ## 贡献者
 
