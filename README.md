@@ -51,23 +51,37 @@
 * 如果有任何想法可以联系邮箱（chenands@qq.com）
 * 欢迎大家提issues
 
-## 成员介绍
+## 贡献者
 
-| 姓名   | 属性                 | 地址                                                       |
-| ------ | -------------------- | ---------------------------------------------------------- |
-| 陈安东 | 中央民族大学         | 知乎：https://www.zhihu.com/people/wang-ya-fei-48          |
-| 金娟娟 | 浙江大学硕士         | 知乎：https://www.zhihu.com/people/wu-shi-lan-xiao-wang-zi |
-| 杨佳达 | 数据挖掘师 | GitHub:https://github.com/yangjiada      |
-| 老表   | 公众号简说Python作者         | 个人公众号：简说Python                                                   |
-| 李玲   | 算法工程师           | 知乎：https://www.zhihu.com/people/liu-yu-18-38            |
-| 张文涛 | 中山大学博士研究生   | GitHub： https://github.com/Fatflower                      |
-| 高立业 | 太原理工大学研究生   | GitHub：https://github.com/0-yy-0                          |
+**核心贡献者**
+
+陈安东：Datawhale成员，中央民族大学|Queen Marry University of London(项目负责人)
+
+
+
+**贡献者**
+
+金娟娟：Datawhale成员，浙江大学硕士
+
+杨佳达：Datawhale成员，数据挖掘师
+
+老表：Datawhale成员，公众号简说Python作者
+
+
+
+**组队学习贡献者**
+
+李玲：Datawhale成员，算法工程师
+
+高立业：Datawhale成员，太原理工大学研究生
+
+张文涛：Datawhale成员，中山大学博士研究生
 
 ## 关注我们
 
 扫描下方二维码，然后回复关键词“动手学数据分析”，即可加入“数据分析项目交流群”
 
-![datawhale](./datawhale.jpeg)
+![Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。](https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg)
 
 
 
