@@ -86,7 +86,7 @@
 
 金娟娟：Datawhale成员，浙江大学硕士
 
-杨佳达：Datawhale成员，数据挖掘师
+杨佳达：Datawhale成员，数据挖掘工程师
 
 老表：Datawhale成员，公众号简说Python作者
 
