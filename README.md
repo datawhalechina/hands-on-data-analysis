@@ -14,7 +14,7 @@
 
 #### 搭配资料
 
-既然这是一门诞生于Datawhale的课程，学习它的时候搭配datawhale所配备其他资源会更好。我们提供的代码是jupyter形式的，里面有你所要完成的任务，也有我们给你的提示和引导，所以这样的形式再结合Datawhale的[组队学习](https://github.com/datawhalechina/team-learning)，可以和大家一起讨论，一起补充资料，那么学习效果一定会加倍。还有，Datawhale之前开源了一门pandas的教程—[Joyful-Pandas](https://github.com/datawhalechina/joyful-pandas)。里面梳理了Pandas的逻辑以及代码展示，所以在我们数据分析的课程中，关于Pandas的操作，你可以参考*Joyful-Pandas*，可以让你的数据分析学习事半功倍。
+既然这是一门诞生于Datawhale的课程，学习它的时候搭配datawhale所配备其他资源会更好。我们提供的代码是jupyter形式的，里面有你所要完成的任务，也有我们给你的提示和引导，所以这样的形式再结合Datawhale的[组队学习](https://github.com/datawhalechina/team-learning-data-mining)，可以和大家一起讨论，一起补充资料，那么学习效果一定会加倍。还有，Datawhale之前开源了一门pandas的教程—[Joyful-Pandas](https://github.com/datawhalechina/joyful-pandas)。里面梳理了Pandas的逻辑以及代码展示，所以在我们数据分析的课程中，关于Pandas的操作，你可以参考*Joyful-Pandas*，可以让你的数据分析学习事半功倍。
 
 
 ## 项目编排与服用方法
