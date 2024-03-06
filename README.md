@@ -84,7 +84,7 @@
 
 **项目负责人**
 
-陈安东：Datawhale成员，中央民族大学|Queen Marry University of London(项目负责人)
+陈安东：Datawhale成员，哈尔滨工业大学|Queen Marry University of London(项目负责人)
 
 **核心贡献者**
 
